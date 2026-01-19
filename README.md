@@ -1,7 +1,24 @@
-# 💫 About Me:
-Currently working on: <br>**Flash Read** — iOS app for speed reading content  <br>**EduConnect** — Recruiting top teaching talent in China  <br>**GuideLight** — Helping teachers focus on teaching—automated marking, homework, insights & progression tracking<br>Lets start a new tech startup in anything fun.<br>0-1m ARR<br>
+# Hey, I'm Joe 👋
 
+Building AI-powered products. Looking to start something new.
 
+---
+
+### Currently Working On
+
+🚀 **Flash Read** — iOS app for speed reading content  
+🎓 **EduConnect** — Recruiting top teaching talent in China  
+📚 **GuideLight** — Automated marking, homework, insights & progression tracking for teachers
+
+---
+
+### What I'm Looking For
+
+Open to co-founding or collaborating on a new tech startup—anything AI, aiming for **0 → $1M ARR**.
+
+If you're building something fun, let's talk.
+
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joseph-ganley-yates/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/BuyOk1140/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/joe_yates_) 
 
