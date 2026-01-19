@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on <br>**Flash Read** — iOS app for speed reading content  <br>**EduConnect** — Recruiting top teaching talent in China  <br>**GuideLight** — Helping teachers focus on teaching—automated marking, homework, insights & progression tracking<br>Lets start a new tech startup in anything fun.<br>0-1m ARR<br>
+Currently working on: <br>**Flash Read** — iOS app for speed reading content  <br>**EduConnect** — Recruiting top teaching talent in China  <br>**GuideLight** — Helping teachers focus on teaching—automated marking, homework, insights & progression tracking<br>Lets start a new tech startup in anything fun.<br>0-1m ARR<br>
 
 
 ## 🌐 Socials:
