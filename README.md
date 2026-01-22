@@ -7,7 +7,7 @@ Building AI-powered products. Looking to start something new.
 ### Currently Working On
 
 🚀 **Flash Read** — iOS app for speed reading content  
-🎓 **EduConnect** — Recruiting top teaching talent in China  
+🎓 **EduConnect** — Recruiting top teaching talent to work in China
 📚 **GuideLight** — Automated marking, homework, insights & progression tracking for teachers
 
 ---
