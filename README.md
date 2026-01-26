@@ -1,6 +1,6 @@
 # Hey, I'm Joe 👋
 
-Building AI-powered products. Looking to start something new.
+Building AI-powered products in Education. Looking for Testers and Co-founders!
 
 ---
 
