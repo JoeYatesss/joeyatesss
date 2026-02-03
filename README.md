@@ -1,6 +1,6 @@
 # Hey, I'm Joe 👋
 
-Building AI-powered products in Education. Looking for Testers and Co-founders!
+Building AI-powered products in Education. Looking for Testers!
 
 ---
 
@@ -11,10 +11,6 @@ Building AI-powered products in Education. Looking for Testers and Co-founders!
 📚 **GuideLight** — Automated marking, homework, insights & progression tracking for teachers
 
 ---
-
-### What I'm Looking For
-
-Open to co-founding or collaborating on a new tech startup—anything AI, aiming for **0 → $1M ARR**.
 
 If you're building something fun, let's talk.
 
